@@ -1,0 +1,155 @@
+    1  ls
+    2  rm Git-2.27.0-64-bit.exe 
+    3  ls
+    4  exit
+    5  rm Git-2.27.0-64-bit.exe 
+    6  ls
+    7  exit
+    8  C:/ProgramData/Anaconda3/Scripts/activate
+    9  conda activate base
+   10  ls
+   11  exit
+   12  C:/ProgramData/Anaconda3/Scripts/activate
+   13  conda activate base
+   14  exit
+   15  C:/ProgramData/Anaconda3/Scripts/activate
+   16  conda activate base
+   17  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/hello.py
+   18  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/hello.py
+   19  exit
+   20  conda
+   21  conda
+   22  which conda
+   23  echo "PATH=$PATH:/c/ProgramData/Anaconda3/Scripts/" >> ~/.bashrc
+   24  exit
+   25  C:/ProgramData/Anaconda3/Scripts/activate
+   26  conda activate base
+   27  ls
+   28  exit
+   29  exit
+   30  conda
+   31  exit
+   32  C:/ProgramData/Anaconda3/Scripts/activate
+   33  conda activate base
+   34  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/hello.py
+   35  exit
+   36  C:/ProgramData/Anaconda3/Scripts/activate
+   37  conda activate base
+   38  exit
+   39  C:/ProgramData/Anaconda3/Scripts/activate
+   40  conda activate base
+   41  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/hello.py
+   42  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/hello.py
+   43  exit
+   44  grep untitled *
+   45  grep untitled *
+   46  ls
+   47  vi misc.xml 
+   48  grep -r untitled *
+   49  vi modules.xml 
+   50  vi DemoProject.iml 
+   51  grep -r MODULE_DIR *
+   52  cd ../
+   53  ls -a
+   54  grep -r MODULE_DIR *
+   55  grep -r 'MODULE_DIR' *
+   56  ls
+   57  grep -ra 'MODULE_DIR' *
+   58  grep -ra 'MODULE_DIR' .idea
+   59  grep -r untitled *
+   60  vi venv/Scripts/activate
+   61  grep -r untitled *
+   62  vi venv/Scripts/activate.bat 
+   63  grep -r untitled *
+   64  vi venv/Scripts/Activate.ps1 
+   65  grep -r untitled *
+   66  exit
+   67  C:/ProgramData/Anaconda3/Scripts/activate
+   68  conda activate base
+   69  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/test.py
+   70  exit
+   71  C:/ProgramData/Anaconda3/Scripts/activate
+   72  conda activate base
+   73  exit
+   74  C:/ProgramData/Anaconda3/Scripts/activate
+   75  conda activate base
+   76  C:/ProgramData/Anaconda3/python.exe c:/Users/Administrator/Documents/test.py
+   77  exit
+   78  ls
+   79  exit
+   80  ls
+   81  cd /
+   82  ls
+   83  cd bin
+   84  ls
+   85  exit
+   86  uname
+   87  uname -a
+   88  uname -r
+   89  uptime
+   90  hostname
+   91  hostname -I
+   92  hostname --help
+   93  hostname --version
+   94  last reboot
+   95  date
+   96  cal
+   97  w
+   98  whoami
+   99  which w
+  100  which whoami
+  101  dmesg
+  102  cat
+  103  cat /proc/cpuinfo
+  104  cat /proc/meminfo
+  105  free -h
+  106  lspci -tv
+  107  dmidecode
+  108  exit
+  109  wfreerdp.exe
+  110  ./wfreerdp.exe 
+  111  ls
+  112  git --version
+  113  exit
+  114  git --version
+  115  exit
+  116  git clone git clone https://essjcee@bitbucket.org/john-demo/spring-reconnect.git
+  117  git clone https://essjcee@bitbucket.org/john-demo/spring-reconnect.git
+  118  git clone https://bitbucket.org/john-demo/spring-nam.git
+  119  ls
+  120  cd spring-nam/
+  121  ls
+  122  cd ../..
+  123  git status
+  124  ls -a
+  125  touch bob.txt mary.txt pat.txt
+  126  la -1
+  127  ls -1
+  128  echo "hello world" > jane.txt
+  129  ls -al
+  130  cd ..
+  131  mkdir code_from_github
+  132  cd code_from_github/
+  133  https://github.com/Lakshmi-Dinesh/pipeline_demo.git
+  134  git clone https://github.com/Lakshmi-Dinesh/pipeline_demo.git
+  135  cd pipeline_demo/
+  136  ls -l
+  137  ls -al
+  138  git status
+  139  git add .
+  140  git commit -am . "first commit"
+  141  git commit -m . 
+  142  "First commit"
+  143  git commit -m "first commit"
+  144  git push
+  145  git status
+  146  ls -al
+  147  git push origin main
+  148  git status
+  149  git add .
+  150  git commit -m "edited jenkinsfile and removed openshift"
+  151  git push origin main
+  152  git add .
+  153  git commit -m "edited jenkinsfile pretend deploy openshift"
+  154  git push origin main
+  155  history | tee gitlog.txt
