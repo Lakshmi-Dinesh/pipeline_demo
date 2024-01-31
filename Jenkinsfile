@@ -34,5 +34,11 @@ pipeline {
         sh "oc expose svc/${projectName}"
       }
     }*/
+	 stage('Deploy Container To Openshift') {
+      steps {
+
+	sh "echo 'pretend openshift deploy'"
+}
+}
   }
 }
